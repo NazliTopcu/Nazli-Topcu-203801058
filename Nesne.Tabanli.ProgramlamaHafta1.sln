@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nesne.Tabanli.ProgramlamaHafta1", "Nesne.Tabanli.ProgramlamaHafta1\Nesne.Tabanli.ProgramlamaHafta1.csproj", "{A8093AF8-93E8-4279-96A3-755A7CF79833}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8093AF8-93E8-4279-96A3-755A7CF79833}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8093AF8-93E8-4279-96A3-755A7CF79833}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8093AF8-93E8-4279-96A3-755A7CF79833}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8093AF8-93E8-4279-96A3-755A7CF79833}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C189327A-B527-4B67-801B-24464256508F}
+	EndGlobalSection
+EndGlobal
